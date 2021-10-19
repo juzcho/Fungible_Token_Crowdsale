@@ -3,17 +3,17 @@
 
 ## Table of Contents
 
-[Fungible Token Crowdsale]()
+[Fungible Token Crowdsale](https://github.com/juzcho/Module_21_Challenge_Fungible_Token_Crowdsale#fungible-token-crowdsale)
 
-[Technologies]()
+[Technologies](https://github.com/juzcho/Module_21_Challenge_Fungible_Token_Crowdsale#technologies)
 
-[Installation Guide]()
+[Installation Guide](https://github.com/juzcho/Module_21_Challenge_Fungible_Token_Crowdsale#installation-guide)
 
-[Evaluation Evidence]()
+[Evaluation Evidence](https://github.com/juzcho/Module_21_Challenge_Fungible_Token_Crowdsale#evaluation-evidence)
 
-[Contributors]()
+[Contributors](https://github.com/juzcho/Module_21_Challenge_Fungible_Token_Crowdsale#contributors)
 
-[License]()
+[License](https://github.com/juzcho/Module_21_Challenge_Fungible_Token_Crowdsale#license)
 
 ---
 
