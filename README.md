@@ -90,6 +90,27 @@ Once you buy the tokens, check your Ganache and Metamask transactions.
 - Go back to the settings and change the contract to **KaseiCoin Contract**. Copy the wallet address under *Token* shown on the KaseiCoin Crowdsale Deployer Contract (after deploying) and paste that on the *At Address*.
 After that, scroll down to the totalSupply it should have the same number as the weiRaised supply and with the same number of ETH that was bought.
 ![KaseiCoin token](./evaluation_evidence/kasei_coin.gif)
+
+### 4. Optional Challenge:
+- To buy tokens: After compiling both KaseiCoin and KaseiCoinContract, go to the **KaseiCoin Crowdsale Deployer Contract**, then put in the necessary information. After deploying, scroll down and copy the address under `crowdsale`: 
+
+    <img src="./Images/kaseicoincontract_deployer_optional.png" width="250" height="200">
+     
+     ```
+    Name: Kasei 
+    Symbol: KSI
+    Wallet: <your hash address>
+    Goal: 10000000000000000000 wei or 10 ETH (or whatever goal you prefer)
+    ```
+- Scroll up, and change the contract to **KaseiCoin Crowdsale Contract**. Paste that crowdsale address onto the *At Address*, then proceed to add the number of ETH (based on your goal earlier), in this case, we are buying 10ETH, and then fill out the beneficiary address on the `buyTokens`, then click `transact`. The Metamask should pop-up, then confirm that. You can check your `isOpen`, if still *true* then it means your contract has not been finalized. Wait another few minutes (assuming your code for close time is for `now + 5 minutes`) before clicking finalize. After a few minutes, click the `finalize` (the orange button), and your Metamask should pop-up again. 
+- Check your `isOpen` which should say *false*. 
+- You can check your `balanceOf` and it should have the same amount of wei from your goal.
+- You can also check `goalReached` and it should say *true* which means it has met the goal initially added on the **KaseiCoin Crowdsale Contract Deployer**.
+- Below is gif to show instructions above:
+![KaseiCoin token](./evaluation_evidence/optional_kaseicoin_crowdsale.gif)
+
+
+
 ---
 
 ## Contributors
