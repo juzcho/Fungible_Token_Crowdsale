@@ -1,4 +1,4 @@
-# Module 21 Challenge: Fungible Token Crowdsale
+# Fungible Token Crowdsale with REMIX and Solidity
 
 
 ## Table of Contents
