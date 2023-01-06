@@ -117,7 +117,7 @@ After that, scroll down to the totalSupply it should have the same number as the
 
 Contributed by: Justine Cho
 
-Email: juz317_cho@yahoo.com
+Email: chojustine0@gmail.com
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/justinecho)
 
